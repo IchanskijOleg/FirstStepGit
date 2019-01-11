@@ -1,0 +1,6 @@
+c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppMethods\ConAppMethods\bin\Debug\ConAppMethods.exe.config
+c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppMethods\ConAppMethods\bin\Debug\ConAppMethods.exe
+c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppMethods\ConAppMethods\bin\Debug\ConAppMethods.pdb
+c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppMethods\ConAppMethods\obj\Debug\ConAppMethods.csprojResolveAssemblyReference.cache
+c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppMethods\ConAppMethods\obj\Debug\ConAppMethods.exe
+c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppMethods\ConAppMethods\obj\Debug\ConAppMethods.pdb

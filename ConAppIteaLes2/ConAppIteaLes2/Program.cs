@@ -10,15 +10,15 @@ namespace ConAppIteaLes2
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8; 
+            //Console.OutputEncoding = Encoding.UTF8; 
             double res;
             res = Math.Pow(3, 3);
             int i = 2 + 2;
-            Console.WriteLine("Привіт");
             Console.WriteLine($" i = {i} и res = {res} и Math.Pow = {Math.Pow(3, 3)}");
 
             var v = 10;
-            Console.ReadLine();
+            //v = ""; ОШИБКА
+
             Console.ReadKey();
         }
     }

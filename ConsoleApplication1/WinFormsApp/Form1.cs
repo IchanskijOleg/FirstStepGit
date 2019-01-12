@@ -19,7 +19,7 @@ namespace WinFormsApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(textBox1.Text, "Окно");
+            MessageBox.Show(textBox1.Text, "Окно 1");
             //textBox1.Text = "hello";
 
         }

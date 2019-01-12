@@ -1,0 +1,9 @@
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\WinFormITEA\bin\Debug\WinFormITEA.exe.config
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\WinFormITEA\bin\Debug\WinFormITEA.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\WinFormITEA\bin\Debug\WinFormITEA.pdb
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\WinFormITEA\obj\Debug\WinFormITEA.csprojResolveAssemblyReference.cache
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\WinFormITEA\obj\Debug\WinFormITEA.Properties.Resources.resources
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\WinFormITEA\obj\Debug\WinFormITEA.csproj.GenerateResource.Cache
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\WinFormITEA\obj\Debug\WinFormITEA.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\WinFormITEA\obj\Debug\WinFormITEA.pdb
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\WinFormITEA\obj\Debug\WinFormITEA.Form1.resources

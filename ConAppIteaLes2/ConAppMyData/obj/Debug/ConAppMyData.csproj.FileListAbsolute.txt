@@ -1,0 +1,5 @@
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppIteaLes2\ConAppMyData\bin\Debug\ConAppMyData.exe.config
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppIteaLes2\ConAppMyData\bin\Debug\ConAppMyData.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppIteaLes2\ConAppMyData\bin\Debug\ConAppMyData.pdb
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppIteaLes2\ConAppMyData\obj\Debug\ConAppMyData.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppIteaLes2\ConAppMyData\obj\Debug\ConAppMyData.pdb

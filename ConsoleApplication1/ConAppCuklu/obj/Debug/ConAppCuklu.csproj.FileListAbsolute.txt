@@ -1,0 +1,6 @@
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppCuklu\bin\Debug\ConAppCuklu.exe.config
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppCuklu\bin\Debug\ConAppCuklu.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppCuklu\bin\Debug\ConAppCuklu.pdb
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppCuklu\obj\Debug\ConAppCuklu.csprojResolveAssemblyReference.cache
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppCuklu\obj\Debug\ConAppCuklu.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppCuklu\obj\Debug\ConAppCuklu.pdb

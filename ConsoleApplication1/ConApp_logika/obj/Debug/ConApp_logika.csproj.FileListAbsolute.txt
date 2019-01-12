@@ -1,0 +1,6 @@
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConApp_logika\bin\Debug\ConApp_logika.exe.config
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConApp_logika\bin\Debug\ConApp_logika.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConApp_logika\bin\Debug\ConApp_logika.pdb
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConApp_logika\obj\Debug\ConApp_logika.csprojResolveAssemblyReference.cache
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConApp_logika\obj\Debug\ConApp_logika.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConApp_logika\obj\Debug\ConApp_logika.pdb

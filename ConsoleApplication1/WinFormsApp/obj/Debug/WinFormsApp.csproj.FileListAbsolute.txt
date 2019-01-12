@@ -1,0 +1,9 @@
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\WinFormsApp\bin\Debug\WinFormsApp.exe.config
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\WinFormsApp\bin\Debug\WinFormsApp.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\WinFormsApp\bin\Debug\WinFormsApp.pdb
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\WinFormsApp\obj\Debug\WinFormsApp.csprojResolveAssemblyReference.cache
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.Cache
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\WinFormsApp\obj\Debug\WinFormsApp.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\WinFormsApp\obj\Debug\WinFormsApp.pdb
+c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\WinFormsApp\obj\Debug\WinFormsApp.Form1.resources

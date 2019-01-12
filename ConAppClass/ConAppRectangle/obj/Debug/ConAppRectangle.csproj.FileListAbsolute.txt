@@ -1,0 +1,6 @@
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppRectangle\bin\Debug\ConAppRectangle.exe.config
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppRectangle\bin\Debug\ConAppRectangle.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppRectangle\bin\Debug\ConAppRectangle.pdb
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppRectangle\obj\Debug\ConAppRectangle.csprojResolveAssemblyReference.cache
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppRectangle\obj\Debug\ConAppRectangle.exe
+c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppRectangle\obj\Debug\ConAppRectangle.pdb

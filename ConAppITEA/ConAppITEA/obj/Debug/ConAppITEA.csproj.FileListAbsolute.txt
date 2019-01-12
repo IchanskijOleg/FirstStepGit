@@ -1,8 +1,0 @@
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\ConAppITEA\bin\Debug\ConAppITEA.exe.config
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\ConAppITEA\bin\Debug\ConAppITEA.exe
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\ConAppITEA\bin\Debug\ConAppITEA.pdb
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\ConAppITEA\obj\Debug\ConAppITEA.csprojResolveAssemblyReference.cache
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\ConAppITEA\obj\Debug\ConAppITEA.exe
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\ConAppITEA\obj\Debug\ConAppITEA.pdb
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\ConAppITEA\bin\Debug\myLibrary.dll
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\ConAppITEA\bin\Debug\myLibrary.pdb

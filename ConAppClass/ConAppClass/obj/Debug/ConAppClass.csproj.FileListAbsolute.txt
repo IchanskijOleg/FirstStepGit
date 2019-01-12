@@ -1,9 +1,0 @@
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppClass\bin\Debug\ConAppClass.exe.config
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppClass\bin\Debug\ConAppClass.exe
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppClass\bin\Debug\ConAppClass.pdb
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppClass\obj\Debug\ConAppClass.csprojResolveAssemblyReference.cache
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppClass\obj\Debug\ConAppClass.exe
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppClass\ConAppClass\obj\Debug\ConAppClass.pdb
-D:\OLEG\FirstStepGit\ConAppClass\ConAppClass\bin\Debug\ConAppClass.exe.config
-D:\OLEG\FirstStepGit\ConAppClass\ConAppClass\obj\Debug\ConAppClass.exe
-D:\OLEG\FirstStepGit\ConAppClass\ConAppClass\obj\Debug\ConAppClass.pdb

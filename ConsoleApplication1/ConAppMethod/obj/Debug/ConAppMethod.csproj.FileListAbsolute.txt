@@ -1,6 +1,0 @@
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppMethod\bin\Debug\ConAppMethod.exe.config
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppMethod\bin\Debug\ConAppMethod.exe
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppMethod\bin\Debug\ConAppMethod.pdb
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppMethod\obj\Debug\ConAppMethod.csprojResolveAssemblyReference.cache
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppMethod\obj\Debug\ConAppMethod.exe
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppMethod\obj\Debug\ConAppMethod.pdb

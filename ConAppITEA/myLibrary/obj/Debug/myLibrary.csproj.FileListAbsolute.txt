@@ -1,4 +1,0 @@
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\myLibrary\bin\Debug\myLibrary.dll
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\myLibrary\bin\Debug\myLibrary.pdb
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\myLibrary\obj\Debug\myLibrary.dll
-c:\users\оксанка\documents\visual studio 2015\Projects\ConAppITEA\myLibrary\obj\Debug\myLibrary.pdb

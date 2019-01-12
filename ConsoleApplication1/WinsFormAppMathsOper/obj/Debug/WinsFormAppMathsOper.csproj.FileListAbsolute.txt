@@ -1,9 +1,0 @@
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WinsFormAppMathsOper\bin\Debug\WinsFormAppMathsOper.exe.config
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WinsFormAppMathsOper\bin\Debug\WinsFormAppMathsOper.exe
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WinsFormAppMathsOper\bin\Debug\WinsFormAppMathsOper.pdb
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WinsFormAppMathsOper\obj\Debug\WinsFormAppMathsOper.csprojResolveAssemblyReference.cache
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WinsFormAppMathsOper\obj\Debug\WinsFormAppMathsOper.Form1.resources
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WinsFormAppMathsOper\obj\Debug\WinsFormAppMathsOper.Properties.Resources.resources
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WinsFormAppMathsOper\obj\Debug\WinsFormAppMathsOper.csproj.GenerateResource.Cache
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WinsFormAppMathsOper\obj\Debug\WinsFormAppMathsOper.exe
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WinsFormAppMathsOper\obj\Debug\WinsFormAppMathsOper.pdb

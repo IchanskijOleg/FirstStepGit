@@ -1,6 +1,0 @@
-c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppAreaFigures\ConAppAreaFigures\bin\Debug\ConAppAreaFigures.exe.config
-c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppAreaFigures\ConAppAreaFigures\bin\Debug\ConAppAreaFigures.exe
-c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppAreaFigures\ConAppAreaFigures\bin\Debug\ConAppAreaFigures.pdb
-c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppAreaFigures\ConAppAreaFigures\obj\Debug\ConAppAreaFigures.csprojResolveAssemblyReference.cache
-c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppAreaFigures\ConAppAreaFigures\obj\Debug\ConAppAreaFigures.exe
-c:\users\o.ichanskij\documents\visual studio 2015\Projects\ConAppAreaFigures\ConAppAreaFigures\obj\Debug\ConAppAreaFigures.pdb

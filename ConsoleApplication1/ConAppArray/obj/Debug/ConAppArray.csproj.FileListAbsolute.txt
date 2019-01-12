@@ -1,6 +1,0 @@
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppArray\bin\Debug\ConAppArray.exe.config
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppArray\bin\Debug\ConAppArray.exe
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppArray\bin\Debug\ConAppArray.pdb
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppArray\obj\Debug\ConAppArray.csprojResolveAssemblyReference.cache
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppArray\obj\Debug\ConAppArray.exe
-C:\Users\Оксанка\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConAppArray\obj\Debug\ConAppArray.pdb

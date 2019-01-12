@@ -1,6 +1,0 @@
-c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppFactorial\bin\Debug\ConAppFactorial.exe.config
-c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppFactorial\bin\Debug\ConAppFactorial.exe
-c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppFactorial\bin\Debug\ConAppFactorial.pdb
-c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppFactorial\obj\Debug\ConAppFactorial.csprojResolveAssemblyReference.cache
-c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppFactorial\obj\Debug\ConAppFactorial.exe
-c:\users\оксанка\documents\visual studio 2015\Projects\ConsoleApplication1\ConAppFactorial\obj\Debug\ConAppFactorial.pdb

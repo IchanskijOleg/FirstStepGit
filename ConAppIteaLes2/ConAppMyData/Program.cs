@@ -10,7 +10,7 @@ namespace ConAppMyData
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
+            //Console.OutputEncoding = Encoding.UTF8;
 
             string firstName, lastName, birthdate, age; 
             Console.WriteLine("Введіть імя");
@@ -25,7 +25,7 @@ namespace ConAppMyData
             Console.WriteLine("вік");
             age = Console.ReadLine();
 
-            Console.WriteLine("Вас звати {1} {0}. Ви народилися {2} і вам років {3}", firstName, lastName, birthdate, age);
+            Console.WriteLine("Вас звати {1} {0}. Ви народилися {2} і вам років {3}.", firstName, lastName, birthdate, age);
 
             Console.ReadLine();
         }

@@ -12,6 +12,9 @@ namespace ConAppSquareRoot
         {
             //double a = 1, b = -6, c = 34, x = 0, d;
             double a = 1, b = -2, c = -3, x = 0, d;
+
+            Console.WriteLine("Квадратне рівняння\n {0}x2 + {1}x + {2}", a, b, c);
+
             // дискриминан
             d = Math.Pow(b, 2) - 4 * a * c;
             // рівняння має 1 корінь
@@ -23,9 +26,9 @@ namespace ConAppSquareRoot
 
             else if (d > 0)
             {
-                x = (-b + Math.Sqrt(d)) / (2 * a);
-                Console.WriteLine("x1 = {0}", x);
                 x = (-b - Math.Sqrt(d)) / (2 * a);
+                Console.WriteLine("x1 = {0}", x);
+                x = (-b + Math.Sqrt(d)) / (2 * a);
                 Console.WriteLine("x2 = {0}", x);
             }
             else

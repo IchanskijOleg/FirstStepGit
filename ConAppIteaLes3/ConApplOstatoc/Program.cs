@@ -14,7 +14,7 @@ namespace ConApplOstatoc
                 num2 = 0,
                 num3 = 0,
                 num4 = 0,
-                res = 0;
+                res;
 
             Console.WriteLine("Уведіть num1");
             num1 = Convert.ToInt32(Console.ReadLine());
@@ -24,7 +24,7 @@ namespace ConApplOstatoc
             num3 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Уведіть num4");
             num4 = Convert.ToInt32(Console.ReadLine());
-
+            res = Math.Min(Math.Min(Math.Min(num1, num2), num3), num4);
             if (num1 % 2 == 0 || num2 % 2 == 0 || num3 % 2 == 0 || num4 % 2 == 0)
             {
                 res = (num1 % 2 == 0) ? (res > num1 ? res: num1) : res;

@@ -32,7 +32,7 @@ namespace Exer10
             }
             else
             {
-                if ((((RectA.p1.X == RectB.p1.X) || (RectA.p3.X == RectB.p3.X)) && ((RectB.p1.Y <= RectA.p1.Y) && (RectB.p1.Y >= RectA.p3.Y)) || (((RectB.p3.Y <= RectA.p1.Y) && (RectB.p3.Y >= RectA.p3.Y))))
+                /*if ((((RectA.p1.X == RectB.p1.X) || (RectA.p3.X == RectB.p3.X)) && ((RectB.p1.Y <= RectA.p1.Y) && (RectB.p1.Y >= RectA.p3.Y)) || (((RectB.p3.Y <= RectA.p1.Y) && (RectB.p3.Y >= RectA.p3.Y))))
                     || (((RectA.p1.Y == RectB.p1.Y) || (RectA.p3.Y == RectB.p3.Y)) && ((RectB.p1.X >= RectA.p1.X) && (RectB.p1.X <= RectA.p3.X)) || (((RectB.p3.X >= RectA.p1.X) && (RectB.p3.X <= RectA.p3.X)))))
                 {
                     Console.WriteLine("Прямоугольники соприкасаются");
@@ -40,7 +40,7 @@ namespace Exer10
                 else
                 {
                     Console.WriteLine("Прямоугольники не соприкасаются");
-                }
+                }*/
 
                 if ((RectA.p1.X >= RectB.p1.X) && (RectA.p3.X <= RectB.p3.X) && (RectA.p1.Y <= RectB.p1.Y) && (RectA.p3.Y >= RectB.p3.Y))
                 {
@@ -80,7 +80,7 @@ namespace Exer10
 
             Rectangle rectA = new Rectangle(0, 0, 5, 2);
             Rectangle rectB = new Rectangle(1, 1, 3, 2);
-            // в) Определить, пересекаются ли эти прямоугольники.
+            // Определим свойства прямоугольников а),б),в)
             IsIntersect(rectA, rectB);
 
             Console.ReadKey();

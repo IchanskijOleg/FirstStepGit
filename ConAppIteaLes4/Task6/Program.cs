@@ -64,7 +64,7 @@ namespace Task6
             {
                 for (int j = 1; j < 10; j++)
                 {
-                    Console.Write("{0}*{1}={2}\t", i, j, i * j);
+                    Console.Write("{0}*{1}={2}\t", j, i, i * j);
                 }
                 Console.WriteLine();
             }

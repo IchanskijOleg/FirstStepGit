@@ -102,7 +102,24 @@ namespace ConAppMethods
                 Console.Write("\n");
             }
         }
-
+        /// <summary>
+        /// Вивід двумірного масиву на екран
+        /// </summary>
+        /// <param name="array">масив цілих чисел</param>
+        static void PrintTwoArray1(int[,] array)
+        { 
+            for (int k = 0; k < array.Rank; k++)
+            {
+                for (int i = 0; i < array.GetLength(k); i++)
+                {
+                    for (int j = 0; j < array.GetLength(k); j++)
+                    {
+                        Console.Write(array[i, j]);
+                    }
+                    Console.Write("\n");
+                }
+            }
+        }
         /// <summary>
         /// Выполняет конвертирование валют
         /// </summary>
@@ -157,7 +174,7 @@ namespace ConAppMethods
             //виведемо елементи масиву
             Console.WriteLine(new string('-', 50));
             PrintArray(1, 2, 3, 5, 8, 9);
-
+            
             //виведемо елементи двомірного масиву
             Console.WriteLine(new string('-', 50));
             int[,] arr = //new int[3, 4] можна розкоментувати різниці
@@ -167,6 +184,10 @@ namespace ConAppMethods
                 {7,8,9,99}
              };
             PrintTwoArray(arr);
+            
+            //виведемо елементи масиву
+            Console.WriteLine(new string('*', 50));
+            PrintTwoArray1(arr);
 
             Console.WriteLine(new string('-', 50));
             Console.WriteLine("Сумма денег в определенной валюте");

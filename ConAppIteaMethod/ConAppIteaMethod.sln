@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppIteaMethod", "ConAppIteaMethod\ConAppIteaMethod.csproj", "{07C3B5E0-B837-41F0-951A-239F2DAE9157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_MethodCube", "001_MethodCube\001_MethodCube.csproj", "{51AFB0CE-0D86-4C47-90DD-9B08A37C098D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_MethodABC", "002_MethodABC\002_MethodABC.csproj", "{CE1F1A84-DF64-483A-9957-F6633487C30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_MethodPermutations", "003_MethodPermutations\003_MethodPermutations.csproj", "{AAD59A23-F7F1-4FA1-B2BD-A80181E0CD84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Fibonachi", "004_Fibonachi\004_Fibonachi.csproj", "{FF14C190-D0CA-4B8D-B1FB-FDB8AE9ECA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C3B5E0-B837-41F0-951A-239F2DAE9157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C3B5E0-B837-41F0-951A-239F2DAE9157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C3B5E0-B837-41F0-951A-239F2DAE9157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C3B5E0-B837-41F0-951A-239F2DAE9157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51AFB0CE-0D86-4C47-90DD-9B08A37C098D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AFB0CE-0D86-4C47-90DD-9B08A37C098D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AFB0CE-0D86-4C47-90DD-9B08A37C098D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AFB0CE-0D86-4C47-90DD-9B08A37C098D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1F1A84-DF64-483A-9957-F6633487C30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1F1A84-DF64-483A-9957-F6633487C30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1F1A84-DF64-483A-9957-F6633487C30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1F1A84-DF64-483A-9957-F6633487C30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD59A23-F7F1-4FA1-B2BD-A80181E0CD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD59A23-F7F1-4FA1-B2BD-A80181E0CD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD59A23-F7F1-4FA1-B2BD-A80181E0CD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD59A23-F7F1-4FA1-B2BD-A80181E0CD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF14C190-D0CA-4B8D-B1FB-FDB8AE9ECA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF14C190-D0CA-4B8D-B1FB-FDB8AE9ECA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF14C190-D0CA-4B8D-B1FB-FDB8AE9ECA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF14C190-D0CA-4B8D-B1FB-FDB8AE9ECA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

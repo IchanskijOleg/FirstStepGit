@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppPlayer", "ConAppIteaLes8\ConAppPlayer.csproj", "{2D08DF9C-94F2-4ABA-A88F-024CBE473DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppHandler", "ConAppHandler\ConAppHandler.csproj", "{C83316D0-CCB6-4F72-A6AD-62525BC58856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D08DF9C-94F2-4ABA-A88F-024CBE473DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D08DF9C-94F2-4ABA-A88F-024CBE473DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D08DF9C-94F2-4ABA-A88F-024CBE473DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D08DF9C-94F2-4ABA-A88F-024CBE473DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83316D0-CCB6-4F72-A6AD-62525BC58856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83316D0-CCB6-4F72-A6AD-62525BC58856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83316D0-CCB6-4F72-A6AD-62525BC58856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83316D0-CCB6-4F72-A6AD-62525BC58856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
